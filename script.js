@@ -1,4 +1,4 @@
-class ball()
+
 
 function setup() {
   createCanvas(500, 300);
@@ -25,7 +25,7 @@ function draw() {
     fill('red');
   }
   else {
-    fill('white');
+    fill('yellow');
   }
 
   background('pink');
